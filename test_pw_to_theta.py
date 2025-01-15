@@ -1,3 +1,6 @@
+"""
+This script is used for further callibration, mapping what physical rotations various combinations of pulsewidth lead to.
+"""
 import csv
 from settings import *
 from serial_interface import *

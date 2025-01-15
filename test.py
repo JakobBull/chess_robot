@@ -1,3 +1,6 @@
+"""
+This script tests if the serial connection to the SSC-32U can be made from our local runtime.
+"""
 import serial
 import time
 
